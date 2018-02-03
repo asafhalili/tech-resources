@@ -10,6 +10,7 @@
    ### Design Patterns
    * [Design Patterns for Object Oriented Languages](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc) - Video series on Design Patterns for Object Oriented Languages.
   ## Podcasts
-   * [Reversim](http://www.reversim.com/) - Hebrew podcast for software developers.
-   * [No Tarbut](http://notarbut.co/) - Hebrew podcast about the daily lives of development teams.
-   * [Extend](http://extend.libsyn.com/) - The podcast for junior developers, discussing career paths, challenges and learning processes. Every episode we interview experienced engineer about their struggles, lesson learned and advice.
+   ### Hebrew Podcasts
+   * [Reversim](http://www.reversim.com/) - Podcast for software developers.
+   * [No Tarbut](http://notarbut.co/) - Podcast about the daily lives of development teams.
+   * [Extend](http://extend.libsyn.com/) - Podcast for junior developers, discussing career paths, challenges and learning processes. Every episode we interview experienced engineer about their struggles, lesson learned and advice.

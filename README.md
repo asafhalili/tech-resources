@@ -9,3 +9,6 @@
    * [Becoming a super user with IntelliJ](https://www.youtube.com/watch?v=VpePPpkkN5Q) - In this talk, Maxim gives you the tools to become a super-user, do the same things only faster and easier. He showcases live-coding use-cases to cover, among other tips, useful shortcuts, easier editing, navigation, and refactoring.
    ### Design Patterns
    * [Design Patterns for Object Oriented Languages](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc) - Video series on Design Patterns for Object Oriented Languages.
+  ## Podcasts
+   * [Reversim](http://www.reversim.com/) - Hebrew podcast for software developers.
+   * [No Tarbut](http://notarbut.co/) - Hebrew podcast about the daily lives of development teams.

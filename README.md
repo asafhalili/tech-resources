@@ -12,3 +12,4 @@
   ## Podcasts
    * [Reversim](http://www.reversim.com/) - Hebrew podcast for software developers.
    * [No Tarbut](http://notarbut.co/) - Hebrew podcast about the daily lives of development teams.
+   * [Extend](http://extend.libsyn.com/) - The podcast for junior developers, discussing career paths, challenges and learning processes. Every episode we interview experienced engineer about their struggles, lesson learned and advice.

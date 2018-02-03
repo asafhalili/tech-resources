@@ -7,3 +7,5 @@
   * [The Magic Tricks Of Testing](https://www.youtube.com/watch?v=URSWYvyc42M) - This talk strips away the veil and offers simple, practical guidelines for choosing what to test and how to test it. Finding the right testing balance isn't magic, it's a magic trick;
    ### Productivity
    * [Becoming a super user with IntelliJ](https://www.youtube.com/watch?v=VpePPpkkN5Q) - In this talk, Maxim gives you the tools to become a super-user, do the same things only faster and easier. He showcases live-coding use-cases to cover, among other tips, useful shortcuts, easier editing, navigation, and refactoring.
+   ### Design Patterns
+   * [Design Patterns for Object Oriented Languages](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc) - Video series on Design Patterns for Object Oriented Languages.

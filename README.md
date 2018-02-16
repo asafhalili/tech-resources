@@ -13,6 +13,8 @@
    * [Ports and Adapters Architecture](https://www.youtube.com/watch?v=U7DRmPYZXAk) - In this talk, we’ll address painful issues and discuss how to help our code retain its agility, not using Agile. We’ll see how proper architecture can help us and what methods are available to us.
    ### Functional Programming
    * [Functional Principles for Object Oriented Development](https://www.youtube.com/watch?v=pMGY9ViIGNU) - How is an expert OO developer to improve on his craft? By learning from other paradigms! These six principles of the functional style can apply to OO. Some of these principles are part of good practice already; some express patterns both old and new; all give us different ways of thinking about problems.
+   ### Other
+   * [The Error of Our Ways](https://www.youtube.com/watch?v=IiGXq3yY70o) - What happens when things break? What happens when software fails? We regard it as a normal and personal inconvenience when apps crash or servers become unavailable, but what are the implications beyond the individual user?
   ## Podcasts
    ### Hebrew Podcasts
    * [Reversim](http://www.reversim.com/) - Podcast for software developers.

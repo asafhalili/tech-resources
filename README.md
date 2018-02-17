@@ -11,6 +11,7 @@
    * [Design Patterns for Object Oriented Languages](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc) - Video series on Design Patterns for Object Oriented Languages.
    ### Architecture
    * [Ports and Adapters Architecture](https://www.youtube.com/watch?v=U7DRmPYZXAk) - In this talk, we’ll address painful issues and discuss how to help our code retain its agility, not using Agile. We’ll see how proper architecture can help us and what methods are available to us.
+   * [Serverless: the Future of Software Architecture](https://www.youtube.com/watch?v=LAWjdZYrUgI) - With the release of AWS Lambda, there has been a sustained movement toward experimentation and the adoption of serverless architectures, which allow developers to build rich, scalable, high-performing, and cost-effective applications without having to maintain traditional multitier backends.
    ### Functional Programming
    * [Functional Principles for Object Oriented Development](https://www.youtube.com/watch?v=pMGY9ViIGNU) - How is an expert OO developer to improve on his craft? By learning from other paradigms! These six principles of the functional style can apply to OO. Some of these principles are part of good practice already; some express patterns both old and new; all give us different ways of thinking about problems.
    ### Other

@@ -16,6 +16,7 @@
    * [Functional Principles for Object Oriented Development](https://www.youtube.com/watch?v=pMGY9ViIGNU) - How is an expert OO developer to improve on his craft? By learning from other paradigms! These six principles of the functional style can apply to OO. Some of these principles are part of good practice already; some express patterns both old and new; all give us different ways of thinking about problems.
    ### Other
    * [The Error of Our Ways](https://www.youtube.com/watch?v=IiGXq3yY70o) - What happens when things break? What happens when software fails? We regard it as a normal and personal inconvenience when apps crash or servers become unavailable, but what are the implications beyond the individual user?
+   * [Programming Across Paradigms](https://www.youtube.com/watch?v=Pg3UeB-5FdA) - What's in a programming paradigm? How did the major paradigms come to be, and why? Once we've sworn our love to one paradigm, does a program written under any other still smell as sweet? 
   ## Podcasts
    ### Hebrew Podcasts
    * [Reversim](http://www.reversim.com/) - Podcast for software developers.
